@@ -1,0 +1,40 @@
+.fruit-label{
+    width: 15rem;
+    border-radius: 10rem;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 1rem;
+    background: blueviolet;
+    color: wheat;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 1rem;
+}
+
+.fruit-label-selected{
+    width: 15rem;
+    border-radius: 10rem;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 1rem;
+    background: black;
+    color: wheat;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 1rem;
+}
+
+.fruit-label:hover{
+    background: black;
+}
+.radio-button{
+    display: none;
+}
+
+.submit-button{
+    margin-top: 2rem;
+}
+
+
